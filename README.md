@@ -1,7 +1,8 @@
 # imageSorter
 Python Tool used to sort images and save them in separate folders
 
-Folder Structure
+Folder Structure :-
+
   Input Folder - Copy the images that need to be sorted here.
   Output/Rejected - Rejected images are pasted in this folder
   Output/Approved - Approved images are pasted in this folder
